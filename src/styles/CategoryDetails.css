@@ -1,0 +1,23 @@
+/* CategoryDetails.css */
+h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 0.5rem 0;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  body{
+    background-color: #a5a5a5;
+    text-align: center;
+  }

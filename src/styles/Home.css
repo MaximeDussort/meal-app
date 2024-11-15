@@ -1,0 +1,14 @@
+    
+  body{
+    background-color: #a5a5a5;
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #71b3ff;
+    background-color: #053a75;
+    padding: 3px;
+    margin: 4px;
+    border-radius: 3px;
+  }
